@@ -1,2 +1,8 @@
 ???this is a test to test some testable stuff...
+<<<<<<< HEAD
 this is a test to test some testable stuff...!!!
+=======
+ba;lksdf;alksdjfa;sldkfja;lksdfjworld testable stuff...!!!
+...???this is a test to test some testable stuff...
+this is the change i made... this is a test to test some testable stuff...!!!
+>>>>>>> 5a5e286... first commit
